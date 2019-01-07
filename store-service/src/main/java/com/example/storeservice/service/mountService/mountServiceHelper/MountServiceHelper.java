@@ -1,4 +1,4 @@
-package com.example.storeservice.service.serviceHelper;
+package com.example.storeservice.service.mountService.mountServiceHelper;
 
 import com.example.storeservice.dto.MountDTO;
 

@@ -1,9 +1,7 @@
-package com.example.storeservice.service;
+package com.example.storeservice.service.mountService;
 
 import com.example.storeservice.dto.MountDTO;
-import com.example.storeservice.entity.Mount;
-import com.example.storeservice.repository.MountRepository;
-import com.example.storeservice.service.serviceHelper.MountServiceHelper;
+import com.example.storeservice.service.mountService.mountServiceHelper.MountServiceHelper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

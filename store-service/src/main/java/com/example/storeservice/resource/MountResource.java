@@ -1,7 +1,7 @@
 package com.example.storeservice.resource;
 
 import com.example.storeservice.dto.MountDTO;
-import com.example.storeservice.service.MountService;
+import com.example.storeservice.service.mountService.MountService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

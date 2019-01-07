@@ -1,4 +1,4 @@
-CREATE TABLE mount (
+CREATE TABLE mounts(
     id bigserial NOT NULL,
     name varchar(50) NOT NULL,
     taming varchar(50) NOT NULL,
